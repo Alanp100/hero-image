@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.hero{
+    width: 100vw;
+    height: 100vh;
+    background-color: orange;
+    position: relative;
+
+}
+.hero-content{
+    background-color: yellow;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    bottom: 50%;
+    margin-bottom: -150px;
+}
+.content{
+    width: 100vw;
+    height: 300vh;
+}
